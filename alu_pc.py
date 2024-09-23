@@ -1,3 +1,8 @@
+#Programa que simula una ALU (Unidad Aritmética Lógica) de un computador.
+# La ALU es un circuito digital que realiza operaciones aritméticas y lógicas.
+#Autor: Dr. Aldo Gonzalez Vazquez
+#Version: 1.0
+#Fecha: 23/09/2024
 class ALU:
     def __init__(self):
         # Este es el estado interno de la ALU.
